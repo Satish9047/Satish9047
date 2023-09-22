@@ -2,6 +2,9 @@
 <h3 align="center">An IT Enthusiast and a JavaScript developer from Nepal</h3>
 <img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D4D03AQGfQfuwEBB_iA/profile-displayphoto-shrink_400_400/0/1694066788576?e=1700697600&v=beta&t=ZlHSCX6Jr-2SrYZLbkjR1IKHwYMaVnN7ExGUb0GBP7o"/>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satees&show_icons=true&locale=en" alt="satees" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satees&" alt="satees" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,7 +29,4 @@
 - ⚡ Fun fact **I not a Rapper**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satees&show_icons=true&locale=en&layout=compact" alt="satees" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satees&show_icons=true&locale=en" alt="satees" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satees&" alt="satees" /></p>
 
