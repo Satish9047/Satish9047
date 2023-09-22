@@ -1,15 +1,17 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](satees55.netlify.app)
 <h1 align="center">Hi 👋, I'm Satish Prajapati, Just call me Satees</h1>
 <h3 align="center">An IT Enthusiast and a JavaScript developer from Nepal</h3>
 
-<img align="right" alt="Coding" width="100" src="https://media.licdn.com/dms/image/D4D03AQGfQfuwEBB_iA/profile-displayphoto-shrink_400_400/0/1694066788576?e=1700697600&v=beta&t=ZlHSCX6Jr-2SrYZLbkjR1IKHwYMaVnN7ExGUb0GBP7o"/>
+<img align="right" alt="Coding" width="150" src="https://media.licdn.com/dms/image/D4D03AQGfQfuwEBB_iA/profile-displayphoto-shrink_400_400/0/1694066788576?e=1700697600&v=beta&t=ZlHSCX6Jr-2SrYZLbkjR1IKHwYMaVnN7ExGUb0GBP7o"/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satish9047&show_icons=true&locale=en&layout=compact" alt="satish9047" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish9047&show_icons=true&locale=en" alt="satish9047" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish9047&" alt="satish9047" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satish9047&show_icons=true&locale=en&layout=compact" alt="satish9047" /></p>
 
 - 🌱 I’m currently learning **MERN Stack, JavaScript**
 
