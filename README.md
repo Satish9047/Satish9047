@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](satees55.netlify.app)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Satish Prajapati, Just call me Satees</h1>
 <h3 align="center">An IT Enthusiast and a JavaScript developer from Nepal</h3>
 
