@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)]
+[![MasterHead]([https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png](https://camo.githubusercontent.com/e2ab69d5a806b80711a92cd080b85bd4a71f014be76314170853caa52ebbb368/68747470733a2f2f7468656163656d616b6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f636f7573746f6d2d7765622e676966))]
 <h1 align="center">Hi 👋, I'm Satish Prajapati, Just call me Satees</h1>
 <h3 align="center">An IT Enthusiast and a JavaScript developer from Nepal</h3>
 
