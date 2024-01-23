@@ -2,16 +2,6 @@
 <h1 align="center">Hi 👋, I'm Satish Prajapati</h1>
 <h3 align="center">An IT Enthusiast, Aim to be a Full-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="200" src="https://media.licdn.com/dms/image/D4D03AQGfQfuwEBB_iA/profile-displayphoto-shrink_400_400/0/1694066788576?e=1700697600&v=beta&t=ZlHSCX6Jr-2SrYZLbkjR1IKHwYMaVnN7ExGUb0GBP7o"/>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish9047&" alt="satish9047" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=satish9047&show_icons=true&locale=en" alt="satish9047" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satish9047&show_icons=true&locale=en&layout=compact" alt="satish9047" /></p>
-
 
 - 🌱 I’m currently learning **MERN Stack, JavaScript, TypeScript, Docker**
 
